@@ -37,8 +37,8 @@ This project implements a fundamental UML editor featuring an intuitive and user
 ---
 
 ## UML UML Class Diagram
-```![UML](https://github.com/user-attachments/assets/4b80d871-46e0-4586-bb0a-4ff7d3da249f)
-
+```
+![UML](https://github.com/user-attachments/assets/386b4a87-1ae6-4bfc-837e-aaf3f6caee3d)
 ```
 ---
 
@@ -47,3 +47,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 If you have any questions or suggestions, feel free to reach out or create an issue. Thank you for your participation and support! 
+
