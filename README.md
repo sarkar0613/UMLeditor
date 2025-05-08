@@ -37,7 +37,8 @@ This project implements a fundamental UML editor featuring an intuitive and user
 ---
 
 ## UML UML Class Diagram
-```
+```![UML](https://github.com/user-attachments/assets/4b80d871-46e0-4586-bb0a-4ff7d3da249f)
+
 ```
 ---
 
