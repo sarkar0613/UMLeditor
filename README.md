@@ -3,7 +3,7 @@
 
 ## Introduction
 This project implements a fundamental UML editor featuring an intuitive and user-friendly interface. It helps users create and manage UML objects, including basic objects (such as Class and Use Case) and various connection lines (Association, Generalization, Composition). The editor also supports selection, grouping, and editing functionalities.
-
+![Screenshot 2025-05-08 221500](https://github.com/user-attachments/assets/cbea50cb-9d7b-4926-90dc-ac93aeba26ea)
 ---
 
 ## Features
@@ -24,6 +24,7 @@ This project implements a fundamental UML editor featuring an intuitive and user
 ---
 
 ## Usage
+![Screenshot 2025-05-08 221500](https://github.com/user-attachments/assets/0a0efc44-8dfc-409c-946f-c86b3a7780ba)
 
 ### Installation & Execution
 1. Please make sure that Java environment (Java 17 or above) is installed on your computer.
@@ -46,4 +47,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 If you have any questions or suggestions, feel free to reach out or create an issue. Thank you for your participation and support! 
-
