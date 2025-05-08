@@ -33,12 +33,10 @@ This project implements a fundamental UML editor featuring an intuitive and user
 - Use the toolbar on the left to select the object or connection line you want to create.
 - Click in the editing area to create objects, or drag to create links between objects.
 - Edit object names, group and ungroup objects via the right-click menu.
-
+![UML drawio](https://github.com/user-attachments/assets/d736ad66-8e0b-4b39-a6a7-560c005bc4b0)
 ---
 
 ## UML UML Class Diagram
-
-![UML]([[https://github.com/user-attachments/assets/386b4a87-1ae6-4bfc-837e-aaf3f6caee3d](https://github.com/sarkar0613/UMLeditor/blob/main/UML.jpg)](https://github.com/sarkar0613/UMLeditor/blob/main/image/UML.drawio.png))
 
 ---
 
