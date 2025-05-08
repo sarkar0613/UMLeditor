@@ -25,7 +25,6 @@ This project implements a fundamental UML editor featuring an intuitive and user
 ---
 
 ## Usage
-![Screenshot 2025-05-08 221500](https://github.com/user-attachments/assets/0a0efc44-8dfc-409c-946f-c86b3a7780ba)
 
 ### Installation & Execution
 1. Please make sure that Java environment (Java 17 or above) is installed on your computer.
