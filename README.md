@@ -38,7 +38,7 @@ This project implements a fundamental UML editor featuring an intuitive and user
 
 ## UML UML Class Diagram
 
-![UML]([https://github.com/user-attachments/assets/386b4a87-1ae6-4bfc-837e-aaf3f6caee3d](https://github.com/sarkar0613/UMLeditor/blob/main/UML.jpg))
+![UML]([[https://github.com/user-attachments/assets/386b4a87-1ae6-4bfc-837e-aaf3f6caee3d](https://github.com/sarkar0613/UMLeditor/blob/main/UML.jpg)](https://github.com/sarkar0613/UMLeditor/blob/main/image/UML.drawio.png))
 
 ---
 
